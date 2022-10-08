@@ -1,5 +1,5 @@
 # ROBLOAPI
-A tool to help users use ROBLOX API with Python.
+A tool to help use ROBLOX API with Python.
 
 # DOCUMENTATION
 
